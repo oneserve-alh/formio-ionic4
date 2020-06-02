@@ -46,7 +46,7 @@
     "core-js": "^3.6.4",
     "crypto-js": "3.3.0",
     "font-awesome": "^4.7.0",
-    "formiojs": "4.9.25",
+    "formiojs": "https://github.com/oneserve-alh/formio.js.git",
     "formiojs-plugin-offline": "git+ssh://git@github.com/formio/formio-plugin-offline.git",
     "rxjs": "~6.5.4",
     "zone.js": "~0.10.2"
